@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\patronini2000-afk\\Metodos-numericos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\source\\repos\\patronini2000-afk\\Metodos-numericos\\Ejemplo3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejemplo3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\source\\repos\\patronini2000-afk\\Metodos-numericos\\Ejemplo2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejemplo2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ejemplo3.py",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\patronini2000-afk\\Metodos-numericos\\Ejemplo3.py",
+              "RelativeDocumentMoniker": "Ejemplo3.py",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\patronini2000-afk\\Metodos-numericos\\Ejemplo3.py",
+              "RelativeToolTip": "Ejemplo3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-02T21:43:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Ejemplo2.py",
               "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\patronini2000-afk\\Metodos-numericos\\Ejemplo2.py",
               "RelativeDocumentMoniker": "Ejemplo2.py",
               "ToolTip": "C:\\Users\\marti\\source\\repos\\patronini2000-afk\\Metodos-numericos\\Ejemplo2.py",
               "RelativeToolTip": "Ejemplo2.py",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-08-31T17:41:03.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Ejemplo1.py",
               "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\patronini2000-afk\\Metodos-numericos\\Ejemplo1.py",
               "RelativeDocumentMoniker": "Ejemplo1.py",
